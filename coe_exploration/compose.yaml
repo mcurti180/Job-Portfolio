@@ -1,0 +1,49 @@
+version: '3.8'
+services:
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - 5173:5173
+    volumes:
+      - ./client:/app
+    depends_on:
+      - server  # this will make sure the server is up before the client starts
+
+  server:
+    build:
+      context: ./server
+    expose:
+      - 8000
+    volumes:
+      - ./server:/app  # Mount the source code for live reloading
+    depends_on:
+      - database
+
+  database:
+    image: mysql:latest
+    restart: always # this will make sure the container restarts if it crashes
+    ports:
+      - "32000:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: bowleg.historic.TORI # we can change this to a secure, non plaintext password later
+      MYSQL_DATABASE: exploration # this will create a database called exploration
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql  # this will run the init.sql file but only on the first run, after that you need to remove the volume to run it again
+      - mysql-data:/var/lib/mysql # this will persist the data even if the container is removed
+
+  phpmyadmin:
+    image: phpmyadmin:latest
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      PMA_ARBITRARY: 1
+    depends_on:
+      - database
+
+volumes:
+  mysql-data:

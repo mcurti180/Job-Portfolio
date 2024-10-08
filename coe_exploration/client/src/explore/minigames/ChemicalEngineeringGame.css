@@ -1,0 +1,197 @@
+
+body {
+  font-family: Arial;
+}
+
+.periodic {
+  position: relative;
+  height: 200px;
+  margin-right: -1px;
+  text-shadow: none;
+}
+
+.periodic-row {
+  clear: both;
+	  height: 10%;
+}
+
+.cell {
+  float: left;
+  position: relative;
+  width: 5.55%;
+  height: 100%;
+}
+
+.element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 1px;
+  right: 1px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 4px rgba(255,255,255,0.5);
+  border: 1px solid rgba(0,0,0,0.05);
+  text-align: center;
+  cursor: default;
+  pointer-events: none;
+  
+  background-color: salmon;
+}
+
+.cell:hover .element {
+  border-color: rgba(0,0,0,0.1);
+  z-index: 1;
+  
+  background-color: white;
+}
+
+.atomic_num,
+.atomic_mass {
+  position: absolute;
+  font-size: 9px;
+  color: black;
+  opacity: 0;
+}
+
+.atomic_num {
+  top: 4px;
+  right: 5px;
+}
+
+.symbol {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  right: 0px;
+  margin-top: -4px;
+  font-size: 9px;
+  line-height: 1;
+  height: 9px;
+  color: black;
+}
+
+.atomic_mass {
+  bottom: 4px;
+  left: 0px;
+  right: 0px;
+}
+
+@media (min-width: 600px) {
+  .periodic {
+    height: 460px;
+    margin-right: -2px;
+  }
+  
+  .element {
+    right: 2px;
+    bottom: 2px;
+  }
+  
+  .atomic_num,
+  .atomic_mass {
+    font-size: 4px;
+    opacity: 1;
+  }
+
+  .symbol {
+    margin-top: -17px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    height: 30px;
+    color: black;
+    
+  }
+}
+
+@media (min-width: 800px) {
+  .periodic {
+    height: 540px;
+  }
+
+  .symbol {
+    font-size: 20px;
+  }
+}
+
+.popup-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(5px);
+  z-index: 1000;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  z-index: 1001;
+}
+
+.ChemEHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.ChemEHeader h1,
+.ChemEHeader h2,
+.ChemEHeader p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.ChemEHeader h1 {
+  margin-top: 100px;
+}
+
+.ChemEButton {
+  background-color: #535bf2;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  cursor: pointer;
+  width: calc(10% -4px); 
+  margin: 20px 4px; 
+}
+
+@media (min-width: 992px) {
+  .periodic {
+    height: 680px;
+  }
+  
+  .atomic_num,
+  .atomic_mass {
+    font-size: 5px;
+  }
+
+  .symbol {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .periodic {
+    height: 800px;
+  }
+  
+  .atomic_num,
+  .atomic_mass {
+    font-size: 10px;
+  }
+
+  .symbol {
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,169 @@
+{
+    "classes": {
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 111Z": {
+            "title": "PRECALCULUS I FUNCTIONS",
+            "credits": "4"
+        },
+        "OP 101": {
+            "title": "INTRODUCTION TO THE OUTDOOR PRODUCTS INDUSTRY",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "BA 161": {
+            "title": "INNOVATION NATIONAWARENESS TO ACTION",
+            "credits": "3"
+        },
+        "ST 243Z": {
+            "title": "ELEMENTARY STATISTICS I",
+            "credits": "4"
+        },
+        "TRAL 132": {
+            "title": "FOUNDATIONS AND HISTORY OF OUTDOOR AND ADVENTURE PROFESSIONS",
+            "credits": "3"
+        },
+        "BA 162": {
+            "title": "INNOVATION NATIONIDEAS TO REALITY",
+            "credits": "3"
+        },
+        "COMM 111Z": {
+            "title": "PUBLIC SPEAKING",
+            "credits": "4"
+        },
+        "ST 202": {
+            "title": "PRINCIPLES OF STATISTICS",
+            "credits": "4"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "CH 121": {
+            "title": "GENERAL CHEMISTRY",
+            "credits": "5"
+        },
+        "ECON 201": {
+            "title": "INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        "OP 231": {
+            "title": "EXPERIENCE OUTDOOR PRODUCTS  WATER",
+            "credits": "2"
+        },
+        "SUS 102": {
+            "title": "INTRODUCTION TO ENVIRONMENTAL SCIENCE AND SUSTAINABILITY",
+            "credits": "4"
+        },
+        "ENGR 248": {
+            "title": "ENGINEERING GRAPHICS AND 3D MODELING",
+            "credits": "3"
+        },
+        "OP 232": {
+            "title": "EXPERIENCE OUTDOOR PRODUCTS  WINTER",
+            "credits": "2"
+        },
+        "TRAL 251": {
+            "title": "RECREATION RESOURCE MANAGEMENT",
+            "credits": "4"
+        },
+        "OP 233": {
+            "title": "EXPERIENCE OUTDOOR PRODUCTS  LAND",
+            "credits": "2"
+        },
+        "OP 307": {
+            "title": "OUTDOOR PRODUCTS PREINTERNSHIP SEMINAR",
+            "credits": "1"
+        },
+        "BA 260": {
+            "title": "INTRODUCTION TO ENTREPRENEURSHIP",
+            "credits": "4"
+        },
+        "GEOG 333": {
+            "title": "ENVIRONMENTAL JUSTICE",
+            "credits": "3"
+        },
+        "OP 301": {
+            "title": "OUTDOOR PRODUCTS PROCESS CONNECTIONS",
+            "credits": "4"
+        },
+        "OP 360": {
+            "title": "OUTDOOR PRODUCTS BRANDING, MERCHANDISING AND SALES",
+            "credits": "4"
+        },
+        "AEC 352": {
+            "title": "ENVIRONMENTAL ECONOMICS AND POLICY",
+            "credits": "3"
+        },
+        "BA 357": {
+            "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+            "credits": "4"
+        },
+        "DSGN 341": {
+            "title": "DESIGN THINKING AND PROCESS INNOVATION",
+            "credits": "4"
+        },
+        "OP 351": {
+            "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT I",
+            "credits": "4"
+        },
+        "OP 352": {
+            "title": "OUTDOOR PRODUCTS DESIGN AND DEVELOPMENT II",
+            "credits": "4"
+        },
+        "BA 390": {
+            "title": "PRINCIPLES OF MARKETING",
+            "credits": "4"
+        },
+        "OP 353": {
+            "title": "OUTDOOR PRODUCTS FAILURE",
+            "credits": "4"
+        },
+        "OP 410": {
+            "title": "OUTDOOR PRODUCTS INTERNSHIP",
+            "credits": "4"
+        },
+        "OP 450": {
+            "title": "OUTDOOR PRODUCTS CAPSTONE I",
+            "credits": "4"
+        },
+        "OP 451": {
+            "title": "OUTDOOR PRODUCTS CAPSTONE II",
+            "credits": "4"
+        },
+        "SUS 304": {
+            "title": "SUSTAINABILITY ASSESSMENT",
+            "credits": "4"
+        },
+        "TRAL 352": {
+            "title": "WILDERNESS MANAGEMENT",
+            "credits": "3"
+        }
+    },
+    "other_requirements": {
+        "Bacc Core: Literature & The Arts": {
+            "credits": "3"
+        },
+        "Bacc Core: Cultural Diversity": {
+            "credits": "4"
+        },
+        "Bacc Core: Biological or Physical Science": {
+            "credits": "4"
+        },
+        "Elective": {
+            "credits": "3"
+        },
+        "Bacc Core: Physical Science": {
+            "credits": "4"
+        }
+    }
+}

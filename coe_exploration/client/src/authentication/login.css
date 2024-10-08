@@ -1,0 +1,38 @@
+.login,
+.register {
+  border: 2px solid #ccc;
+  padding: 5rem;
+  margin: auto;
+  border-radius: 10px;  
+  box-shadow: 3px 3px 10px grey;
+  width: 50%;
+  margin-top: 30px;
+  background-color: white;
+}
+
+input[type=text],
+input[type=password],
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid white;
+  box-sizing: border-box;
+}
+
+.login-button {
+  background-color: #ff5733;
+  color: white;
+  padding: 10px 16px;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  width: calc(25% - 4px); 
+  margin: 20px 4px;
+}
+
+/* Add margin only between buttons */
+button + button {
+  margin-left: 2; /* Reset left margin for the second button */
+}

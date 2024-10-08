@@ -1,0 +1,39 @@
+Computer Science", "Construction Engineering Management", Civil Engineering", "Architectural Engineering, 
+Electrical and Computer Engineering", "Bioengineering", "Environmental Engineering", "Chemical Engineering", "Ecological Engineering",
+"Mechanical Engineering", "Industrial Engineering", "Manufacturing Engineering
+
+1. "Which area of technology fascinates you the most?"
+   - A. Infrastructure and urban development
+   - B. Software engineering and digital solutions
+   - C. Energy production and environmental sustainability
+   - D. Machinery and industrial automation
+
+2. "What kind of projects would you enjoy working on?"
+   - A. Architectural design and construction management
+   - B. Software development and data analytics
+   - C. Renewable energy and ecological engineering
+   - D. Manufacturing processes and supply chain management
+
+3. "What aspect of engineering interests you the most?"
+   - A. Structural design and urban planning
+   - B. Programming and software architecture
+   - C. Environmental conservation and resource management
+   - D. Industrial optimization and process engineering
+
+4. "Which field of study aligns with your career aspirations?"
+   - A. Civil engineering and infrastructure development
+   - B. Computer science and information technology
+   - C. Environmental engineering and sustainable design
+   - D. Industrial engineering and manufacturing systems
+
+5. "What motivates you to pursue a career in engineering?"
+   - A. Creating sustainable and resilient urban environments
+   - B. Innovating with technology and digital solutions
+   - C. Addressing environmental challenges and climate change
+   - D. Optimizing production processes and industrial systems
+
+6. "What type of course are you most interested in taking?"
+    - A. Programming and Software Development
+    - B. Engineering and Design
+    - C. Scientific Research and Analysis
+    - D. Project Management and Leadership

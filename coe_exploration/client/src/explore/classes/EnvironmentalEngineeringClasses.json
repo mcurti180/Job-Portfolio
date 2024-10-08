@@ -1,0 +1,202 @@
+{
+    "classes": {
+        "CH 231 & CH 261": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 231 1",
+            "credits": "5"
+        },
+        "CH 232 & CH 262": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 232 1",
+            "credits": "5"
+        },
+        "CH 233 & CH 263": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 233 1",
+            "credits": "5"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3-4"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "CBEE 211": {
+            "title": "MATERIAL BALANCES AND STOICHIOMETRY 1",
+            "credits": "3"
+        },
+        "CBEE 212": {
+            "title": "ENERGY BALANCES 1",
+            "credits": "3"
+        },
+        "CBEE 213": {
+            "title": "PROCESS DATA ANALYSIS 1",
+            "credits": "4"
+        },
+        "CH 331 & CH 332": {
+            "title": "ORGANIC CHEMISTRY and ORGANIC CHEMISTRY",
+            "credits": "8"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "ENGR 212": {
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS 1",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 264 & MTH 265": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA and INTRODUCTION TO SERIES",
+            "credits": "4"
+        },
+        "PH 212 & PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS and GENERAL PHYSICS WITH CALCULUS",
+            "credits": "8"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "CBEE 320": {
+            "title": "PROFESSIONALISM AND ENGINEERING ETHICS",
+            "credits": "3"
+        },
+        "CCE 201": {
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN 1",
+            "credits": "3"
+        },
+        "CE 313 or CE 372": {
+            "title": "HYDRAULIC ENGINEERING or GEOTECHNICAL ENGINEERING I",
+            "credits": "4"
+        },
+        "CE 412": {
+            "title": "HYDROLOGY",
+            "credits": "4"
+        },
+        "CHE 311": {
+            "title": "THERMODYNAMICS",
+            "credits": "3"
+        },
+        "CHE 331": {
+            "title": "TRANSPORT PHENOMENA I",
+            "credits": "4"
+        },
+        "CHE 332": {
+            "title": "TRANSPORT PHENOMENA II",
+            "credits": "3"
+        },
+        "CHE 333": {
+            "title": "TRANSPORT PHENOMENA III",
+            "credits": "3"
+        },
+        "CHE 334": {
+            "title": "TRANSPORT PHENOMENA LABORATORY",
+            "credits": "3"
+        },
+        "ENVE 322": {
+            "title": "FUNDAMENTALS OF ENVIRONMENTAL ENGINEERING",
+            "credits": "4"
+        },
+        "GEO 221": {
+            "title": "ENVIRONMENTAL GEOLOGY",
+            "credits": "4"
+        },
+        "MB 230": {
+            "title": "INTRODUCTORY MICROBIOLOGY",
+            "credits": "4"
+        },
+        "CBEE 414": {
+            "title": "PROCESS ENGINEERING LABORATORY",
+            "credits": "3"
+        },
+        "ENVE 415": {
+            "title": "ENVIRONMENTAL ENGINEERING LABORATORY",
+            "credits": "3"
+        },
+        "ENVE 421": {
+            "title": "DRINKING WATER TREATMENT PROCESSES",
+            "credits": "4"
+        },
+        "ENVE 422": {
+            "title": "WASTEWATER TREATMENT PROCESSES",
+            "credits": "4"
+        },
+        "ENVE 425": {
+            "title": "AIR POLLUTION CONTROL",
+            "credits": "3"
+        },
+        "ENVE 431": {
+            "title": "FATE AND TRANSPORT OF CHEMICALS IN ENVIRONMENTAL SYSTEMS",
+            "credits": "4"
+        },
+        "ENVE 456": {
+            "title": "SUSTAINABLE WATER RESOURCES DEVELOPMENT",
+            "credits": "3"
+        },
+        "ENVE 457": {
+            "title": "BIOREACTORS",
+            "credits": "3"
+        },
+        "ENVE 490": {
+            "title": "ENVIRONMENTAL ENGINEERING DESIGN",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Courses": {
+            "credits": "6"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Engineering Elective": {
+            "credits": "1-2"
+        },
+        "Synthesis Courses": {
+            "credits": "6"
+        }
+    }
+}

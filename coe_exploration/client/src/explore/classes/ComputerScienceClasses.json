@@ -1,0 +1,150 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "MTH 231": {
+            "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+            "credits": "4"
+        },
+        "CS 162": {
+            "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+            "credits": "4"
+        },
+        "WR 214": {
+            "title": "WRITING IN BUSINESS",
+            "credits": "3"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "CS 271": {
+            "title": "COMPUTER ARCHITECTURE AND ASSEMBLY LANGUAGE",
+            "credits": "4"
+        },
+        "CS 261": {
+            "title": "DATA STRUCTURES",
+            "credits": "4"
+        },
+        "CS 290": {
+            "title": "WEB DEVELOPMENT",
+            "credits": "4"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "CS 344": {
+            "title": "OPERATING SYSTEMS I",
+            "credits": "4"
+        },
+        "CS 361": {
+            "title": "SOFTWARE ENGINEERING I",
+            "credits": "4"
+        },
+        "CS 325": {
+            "title": "ANALYSIS OF ALGORITHMS",
+            "credits": "4"
+        },
+        "CS 362": {
+            "title": "SOFTWARE ENGINEERING II",
+            "credits": "4"
+        },
+        "CS 391": {
+            "title": "SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+            "credits": "3"
+        },
+        "CS 372": {
+            "title": "INTRODUCTION TO COMPUTER NETWORKS",
+            "credits": "4"
+        },
+        "CS 381": {
+            "title": "PROGRAMMING LANGUAGE FUNDAMENTALS",
+            "credits": "4"
+        },
+        "CS 444": {
+            "title": "OPERATING SYSTEMS II",
+            "credits": "4"
+        },
+        "CS 461": {
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT I",
+            "credits": "3"
+        },
+        "CS 352": {
+            "title": "INTRODUCTION TO USABILITY ENGINEERING",
+            "credits": "4"
+        },
+        "CS 462": {
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT II",
+            "credits": "3"
+        },
+        "CS 340": {
+            "title": "INTRODUCTION TO DATABASES",
+            "credits": "4"
+        },
+        "CS 463": {
+            "title": "SENIOR SOFTWARE ENGINEERING PROJECT",
+            "credits": "2"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Course": {
+            "credits": "4"
+        },
+        "Unrestricted Electives": {
+            "credits": "3"
+        },
+        "Perspectives Courses": {
+            "credits": "7"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Option Courses": {
+            "credits": "8"
+        },
+        "Option Course": {
+            "credits": "4"
+        },
+        "Restricted Elective": {
+            "credits": "3"
+        },
+        "Synthesis Course": {
+            "credits": "3"
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "classes": {
+        "CH 231 & CH 261": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 231",
+            "credits": "5"
+        },
+        "CH 232 & CH 262": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 232",
+            "credits": "5"
+        },
+        "CH 233 & CH 263": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 233",
+            "credits": "5"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "BI 231": {
+            "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+            "credits": "3"
+        },
+        "BI 233": {
+            "title": "INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY",
+            "credits": "3"
+        },
+        "BIOE 240": {
+            "title": "A PRACTICAL INTRODUCTION TO BIOMEDICAL SIGNALS AND SENSORS",
+            "credits": "3"
+        },
+        "CBEE 211": {
+            "title": "MATERIAL BALANCES AND STOICHIOMETRY",
+            "credits": "3"
+        },
+        "CBEE 212": {
+            "title": "ENERGY BALANCES",
+            "credits": "3"
+        },
+        "CBEE 213": {
+            "title": "PROCESS DATA ANALYSIS",
+            "credits": "4"
+        },
+        "CH 331": {
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        "CH 332": {
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3-4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 264 & MTH 265": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA and INTRODUCTION TO SERIES",
+            "credits": "4"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "BB 450 & BB 451": {
+            "title": "GENERAL BIOCHEMISTRY and GENERAL BIOCHEMISTRY",
+            "credits": "7"
+        },
+        "BI 221 or BI 241 or MB 230": {
+            "title": "PRINCIPLES OF BIOLOGY CELLS 1 or INTRODUCTION TO HUMAN ANATOMY AND PHYSIOLOGY LABORATORY or INTRODUCTORY MICROBIOLOGY",
+            "credits": "24"
+        },
+        "BIOE 311": {
+            "title": "BIOENGINEERING THERMODYNAMICS",
+            "credits": "3"
+        },
+        "BIOE 331": {
+            "title": "BIOTRANSPORT I",
+            "credits": "3"
+        },
+        "BIOE 332": {
+            "title": "BIOTRANSPORT II",
+            "credits": "3"
+        },
+        "BIOE 340": {
+            "title": "BIOMEDICAL ENGINEERING PRINCIPLES",
+            "credits": "3"
+        },
+        "BIOE 350": {
+            "title": "MATHEMATICAL AND NUMERICAL METHODS FOR BIOENGINEERS",
+            "credits": "3"
+        },
+        "BIOE 351": {
+            "title": "BIOMATERIALS AND BIOINTERFACES",
+            "credits": "3"
+        },
+        "BIOE 420": {
+            "title": "SOCIAL JUSTICE, ETHICS, AND ENGINEERING",
+            "credits": "3"
+        },
+        "CBEE 320": {
+            "title": "PROFESSIONALISM AND ENGINEERING ETHICS",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "BIOE 457": {
+            "title": "BIOREACTORS",
+            "credits": "3"
+        },
+        "BIOE 453": {
+            "title": "BIOENGINEERING LABORATORY TECHNIQUES",
+            "credits": "3"
+        },
+        "BIOE 462": {
+            "title": "BIOSEPARATIONS",
+            "credits": "3"
+        },
+        "BIOE 465": {
+            "title": "BIOMEDICAL IMAGE PROCESSING",
+            "credits": "3"
+        },
+        "BIOE 490": {
+            "title": "BIOENGINEERING PROCESS DESIGN",
+            "credits": "4"
+        },
+        "BIOE 492": {
+            "title": "BIOENGINEERING CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "BIOE 495": {
+            "title": "BIOENGINEERING PRODUCT DESIGN",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Difference, Power & Discrimination ": {
+            "credits": "3"
+        },
+        "Engineering Elective ": {
+            "credits": "3"
+        },
+        "Perspectives Course": {
+            "credits": "3"
+        },
+        "Engineering Elective or Biological Science ": {
+            "credits": "3"
+        },
+        "Engineering Electives ": {
+            "credits": "5-6"
+        },
+        "Perspectives Courses": {
+            "credits": "9"
+        },
+        "Synthesis Courses": {
+            "credits": "6"
+        }
+    }
+}

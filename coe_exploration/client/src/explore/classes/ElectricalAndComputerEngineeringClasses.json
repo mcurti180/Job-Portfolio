@@ -1,0 +1,201 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS",
+            "credits": "1"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "MTH 231": {
+            "title": "ELEMENTS OF DISCRETE MATHEMATICS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "CS 162": {
+            "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+            "credits": "4"
+        },
+        "ENGR 202": {
+            "title": "ELECTRICAL FUNDAMENTALS II",
+            "credits": "3"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "MTH 264": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        "MTH 265": {
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        "CS 261": {
+            "title": "DATA STRUCTURES",
+            "credits": "4"
+        },
+        "ENGR 203": {
+            "title": "ELECTRICAL FUNDAMENTALS III",
+            "credits": "3"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "MTH 255": {
+            "title": "VECTOR CALCULUS II",
+            "credits": "4"
+        },
+        "ECE 271": {
+            "title": "DIGITAL LOGIC DESIGN",
+            "credits": "3"
+        },
+        "ECE 272": {
+            "title": "DIGITAL LOGIC DESIGN LABORATORY",
+            "credits": "1"
+        },
+        "ECE 322": {
+            "title": "ELECTRONICS I",
+            "credits": "3"
+        },
+        "ECE 351": {
+            "title": "SIGNALS AND SYSTEMS I",
+            "credits": "3"
+        },
+        "ECE 375": {
+            "title": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
+            "credits": "4"
+        },
+        "ECE 341": {
+            "title": "JUNIOR DESIGN I",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ECE 323": {
+            "title": "ELECTRONICS II",
+            "credits": "3"
+        },
+        "ECE 352": {
+            "title": "SIGNALS AND SYSTEMS II",
+            "credits": "3"
+        },
+        "ECE 390 or CS 344 or CS 374": {
+            "title": "ELECTRIC AND MAGNETIC FIELDS or OPERATING SYSTEMS I or OPERATING SYSTEMS I",
+            "credits": "4"
+        },
+        "ECE 342": {
+            "title": "JUNIOR DESIGN II",
+            "credits": "3"
+        },
+        "ECE 372": {
+            "title": "INTRODUCTION TO COMPUTER NETWORKS",
+            "credits": "4"
+        },
+        "ECE 353": {
+            "title": "INTRODUCTION TO PROBABILITY AND RANDOM SIGNALS",
+            "credits": "3"
+        },
+        "ECE 391": {
+            "title": "TRANSMISSION LINES",
+            "credits": "3"
+        },
+        "CS 391": {
+            "title": "SOCIAL AND ETHICAL ISSUES IN COMPUTER SCIENCE",
+            "credits": "3"
+        },
+        "ECE 441": {
+            "title": "ENGINEERING DESIGN PROJECT",
+            "credits": "3"
+        },
+        "ECE 442": {
+            "title": "ENGINEERING DESIGN PROJECT",
+            "credits": "3"
+        },
+        "ECE 443": {
+            "title": "ENGINEERING DESIGN PROJECT",
+            "credits": "2"
+        }
+    },
+    "other_requirements": {
+        "Perspectives: Biological Science ": {
+            "credits": "4"
+        },
+        "Physical Activity Course ": {
+            "credits": "1"
+        },
+        "Perspectives: Western Culture ": {
+            "credits": "3"
+        },
+        "Perspectives: Cultural Diversity ": {
+            "credits": "3"
+        },
+        "Synthesis: Contemporary Global Issues ": {
+            "credits": "3"
+        },
+        "ECE Electives": {
+            "credits": "8"
+        },
+        "Perspectives: Difference, Power, & Discrimination ": {
+            "credits": "3"
+        },
+        "Perspectives: Social Processes & Institutions ": {
+            "credits": "3"
+        },
+        "Perspectives: Literature & Arts ": {
+            "credits": "3"
+        }
+    }
+}

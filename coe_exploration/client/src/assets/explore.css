@@ -1,0 +1,77 @@
+
+.major {
+    border: 2px solid #ccc;
+    margin: 10px 30px 10px 30px;
+    border-radius: 10px;  
+    box-shadow: 3px 3px 10px grey;
+    padding: 10px;
+    text-decoration: none;
+    background-color: white;
+  }
+
+.major:hover {
+  transform: scale(1.005);
+}
+
+/* How to get rid of the text decoration for the h2 tag in the major class? */
+h2 {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Remove border later - using for visualization */
+.majorInfo {
+  text-align: center;
+  /*border: 1px solid black; -- border for visualization */ 
+  margin: 10px;
+  padding: 20px;
+}
+
+.professorCard {
+  padding: 10px;
+  margin: 20px;
+  height: 250px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  box-shadow: 3px 3px 10px grey;
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+
+.professorImage {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.playButton {
+  background-color: #ff5733;
+  color: white;
+  border: 1px solid black;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: calc(25% - 4px); 
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.playButton:hover {
+  transform: scale(1.005);
+}
+
+.leftText {
+  text-align: left;
+}
+
+.center {
+  margin: auto; 
+}

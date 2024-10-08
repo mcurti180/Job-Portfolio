@@ -1,0 +1,132 @@
+.start-screen {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: calc(1vw + 1vh);
+  color:black;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+.start-screen h2,
+.winner-container h2 {
+  font-size: calc(2vw + 2vh);
+  margin-bottom: 20px;
+}
+
+.start-screen ol,
+.start-screen ul {
+  text-align: left;
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+.start-screen li {
+  font-size: calc(1.2vw + 1.2vh);
+  margin-bottom: 10px;
+}
+
+.start-screen button {
+  font-size: calc(1.5vw + 1.5vh);
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.biogame-container {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.winner-container {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.assembly-container {
+  display: grid;
+  place-items: center;
+  align-content: center;
+}
+
+.biogame-container button {
+  align-self: flex-end;
+  background-color: #535bf2;
+  color: black;
+  margin-top: 20px;
+  font-size: calc(1vw + 1vh);
+  border: none;
+  cursor: pointer;
+}
+
+.biogame-container .nucleotide {
+  width: 2vw;
+  height: 5vh;
+  border-radius: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: black;
+  font-size: calc(1vw + 1vh);
+  font-weight: 850;
+  margin-top: 0px;
+}
+
+.biogame-container .sequence {
+  padding: 1vh;
+  font-size: calc(2vw + 2vh);
+}
+
+.selected-fragments {
+  font-size: calc(1.5vw + 1.5vh);
+  padding: 1vh;
+}
+
+.biogame-container .fragments {
+  font-size: calc(1vw + 1vh);
+  margin-top: 0px;
+}
+
+.biogame-container .fragment-buttons {
+  display: flex;
+  flex-wrap: wrap; /* Allows buttons to wrap onto the next line */
+  gap: 1vw;
+  justify-content: center; /* Centers buttons in the container */
+  padding-bottom: 1vh;
+}
+
+.biogame-container .assembly-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*width: 100%;  Ensures the container takes full width to utilize the space for the reset button */
+}
+
+.biogame-container .reset-button {
+  align-self: flex-end; /* Positions the reset button to the right */
+  margin-top: 10px;
+  font-size: calc(1vw + 1vh);
+  cursor: pointer;
+}
+
+.biogame-container .submit-button {
+  font-size: calc(1vw + 1vh);
+  cursor: pointer;
+  margin-top: 0px;
+}

@@ -1,0 +1,70 @@
+.home-background {
+    background-image: url('../assets/homebg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.howto-container {
+    border: 2px solid #ccc; /* Add a border around the entire quiz */
+    padding: 50px; /* Add some padding inside the container */
+    margin: 0 auto; /* Center the container horizontally */
+    max-width: 600px; /* Limit the width of the container */
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;  
+    box-shadow: 3px 3px 10px grey;
+    background-color: white;
+    text-align: center;
+}
+
+.small-card {
+    padding: 10px;
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    box-shadow: 3px 3px 10px grey;
+    background-color: white; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; /* This centers vertically */
+}
+
+.link-button {
+    background-color: #ff5733;
+    color: white;
+    padding: 10px 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: calc(25% - 4px); 
+    margin: 20px 4px;
+}
+
+.icon-small {
+    width: 55px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust spacing between icon and text */
+    vertical-align: middle; /* Align icon vertically with text */
+  }
+
+  .icon-container {
+    margin: 20px;
+  }
+
+  .text-container {
+    text-align: center;
+  }

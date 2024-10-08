@@ -1,0 +1,199 @@
+{
+    "classes": {
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "COMM 111Z or COMM 114": {
+            "title": "PUBLIC SPEAKING or ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3-4"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "ENGR 212": {
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 264": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        "MTH 265": {
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        "NSE 233": {
+            "title": "MATHEMATICAL METHODS FOR NSE",
+            "credits": "3"
+        },
+        "NSE 234": {
+            "title": "NUCLEAR AND RADIATION PHYSICS I",
+            "credits": "3"
+        },
+        "NSE 235": {
+            "title": "NUCLEAR AND RADIATION PHYSICS II",
+            "credits": "3"
+        },
+        "NSE 236": {
+            "title": "NUCLEAR RADIATION DETECTION AND INSTRUMENTATION",
+            "credits": "4"
+        },
+        "PH 212 & PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS and GENERAL PHYSICS WITH CALCULUS",
+            "credits": "8"
+        },
+        "ENGR 248": {
+            "title": "ENGINEERING GRAPHICS AND 3D MODELING",
+            "credits": "3"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        "MATS 321": {
+            "title": "INTRODUCTION TO MATERIALS SCIENCE",
+            "credits": "4"
+        },
+        "NSE 311ME 311": {
+            "title": "INTRODUCTION TO THERMALFLUID SCIENCES",
+            "credits": "4"
+        },
+        "NSE 312ME 312": {
+            "title": "THERMODYNAMICS",
+            "credits": "4"
+        },
+        "NSE 331ME 331": {
+            "title": "FLUID MECHANICS",
+            "credits": "4"
+        },
+        "NSE 332ME 332": {
+            "title": "HEAT TRANSFER",
+            "credits": "4"
+        },
+        "NSE 451 & NSE 452": {
+            "title": "NEUTRONIC ANALYSIS I and NEUTRONIC ANALYSIS II",
+            "credits": "6"
+        },
+        "NSE 457": {
+            "title": "NUCLEAR REACTOR LABORATORY",
+            "credits": "2"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "NSE 407": {
+            "title": "SEMINAR Nuclear Engineering  3 terms",
+            "credits": "3"
+        },
+        "NSE 415": {
+            "title": "NUCLEAR RULES AND REGULATIONS",
+            "credits": "2"
+        },
+        "NSE 435": {
+            "title": "RADIATION SHIELDING AND EXTERNAL DOSIMETRY",
+            "credits": "4"
+        },
+        "NSE 467": {
+            "title": "NUCLEAR REACTOR THERMAL HYDRAULICS",
+            "credits": "4"
+        },
+        "NSE 473": {
+            "title": "NUCLEAR REACTOR SYSTEMS ANALYSIS",
+            "credits": "3"
+        },
+        "NSE 474": {
+            "title": "NUCLEAR SYSTEMS DESIGN I",
+            "credits": "4"
+        },
+        "NSE 475": {
+            "title": "NUCLEAR SYSTEMS DESIGN II",
+            "credits": "4"
+        },
+        "NSE 481": {
+            "title": "RADIATION PROTECTION",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Course": {
+            "credits": "3"
+        },
+        "Biological Science w/Lab Elective": {
+            "credits": "4"
+        },
+        "Perspectives Courses": {
+            "credits": "6"
+        },
+        "Restricted Electives ": {
+            "credits": "6"
+        },
+        "Synthesis Courses": {
+            "credits": "6"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Free Elective": {
+            "credits": "2"
+        }
+    }
+}

@@ -1,0 +1,274 @@
+.resize-message {
+  display: none; /* Hidden by default */
+  position: fixed; /* Make it cover the entire screen */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 1000; /* Make sure it's on top */
+  padding: 20px; /* Padding for text */
+  box-sizing: border-box; /* Include padding in width and height */
+  font-size: 20px; /* Larger text */
+}
+
+nav.nav-pet {
+  display: flex;
+  position: fixed;
+  background: none;
+  width: 100%;
+  z-index: 10000;
+}
+
+nav.nav-pet:hover {
+  background: #242424;
+}
+
+.backyard {
+  aspect-ratio: 16 / 9;
+  background-image: url('../assets/landscape.png');
+  position: relative;
+  width: 100vw;
+  height: auto;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto;
+  /*overflow: hidden;*/
+}
+
+.overlay {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.mechanic {
+  position: absolute;
+  z-index: 11;
+  height: 10%;
+  width: auto;
+  cursor: pointer;
+}
+
+.frisbee {
+  top: 80%;
+  left: 78%;
+}
+
+.bell {
+  top: 80%;
+  left: 71%;
+}
+
+.mechanic:hover {
+  scale: 1.1;
+}
+
+.reward-windturbines {
+  position: absolute;
+  z-index: 0;
+}
+
+.fence {
+  position: absolute;
+  z-index: 1;
+}
+
+.pet {
+  position: absolute;
+  width: 22vw;
+  height: 22vw;
+  z-index: 10;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.reward-lights {
+  position: absolute;
+  z-index: 50;
+  pointer-events: none;
+
+}
+
+.bioengineering {
+  position: absolute;
+  z-index: 500;
+}
+
+.debug {
+  position: absolute;
+  z-index: 51;
+}
+
+@media (max-width: 600px) {
+  .resize-message {
+    display: flex;
+  }
+  .pet, .pet-menu, button {
+    display: none;
+  }
+}
+
+
+/* Pet animations */
+
+@keyframes second_half_cycle {
+
+  /* Use second half of idle animations for the walk cycle of outfits that don't have leg movements */
+  from {
+    background-position: 51.85%;
+  }
+
+  to {
+    background-position: 100%;
+    /* 14 frames * (100 / 27 frames) */
+  }
+}
+
+@keyframes full_cycle {
+  from {
+    background-position: 0;
+  }
+
+  to {
+    background-position: 100%;
+  }
+}
+
+/* Walking */
+
+.walking,
+.dirt-heavy-walking,
+.dirt-light-walking,
+.RadiationHealthPhysics-walking {
+  animation: full_cycle 1s steps(13) infinite;
+}
+
+.running,
+.dirt-heavy-running,
+.dirt-light-running,
+.RadiationHealthPhysics-running,
+.ChemicalEngineering-running,
+.CivilEngineering-running,
+.ComputerScience-running,
+.ConstructionEngineeringManagement-running,
+.EnvironmentalEngineering-running,
+.IndustrialEngineering-running,
+.MechanicalEngineering-running,
+.NuclearEngineering-running {
+  animation: full_cycle 0.5s steps(13) infinite;
+}
+
+/* These outfits use the second half of idle animation */
+.ChemicalEngineering-walking,
+.CivilEngineering-walking,
+.ComputerScience-walking,
+.ConstructionEngineeringManagement-walking,
+.EnvironmentalEngineering-walking,
+.IndustrialEngineering-walking,
+.MechanicalEngineering-walking,
+.NuclearEngineering-walking {
+  animation: second_half_cycle 1s steps(13) infinite;
+}
+
+/* Idle */
+
+.idle,
+.dirt-heavy-idle,
+.ChemicalEngineering-idle,
+.CivilEngineering-idle,
+.ComputerScience-idle,
+.ConstructionEngineeringManagement-idle,
+.EnvironmentalEngineering-idle,
+.IndustrialEngineering-idle,
+.MechanicalEngineering-idle,
+.NuclearEngineering-idle,
+.RadiationHealthPhysics-idle {
+  animation: full_cycle 2s steps(27) infinite;
+}
+
+.dirt-light-idle {
+  /* The light dirt is just on the feet so we just need one frame to be displayed */
+  animation: full_cycle 1s steps(1) infinite;
+}
+
+/* Eating */
+
+.eating,
+.dirt-heavy-eating,
+.ChemicalEngineering-eating,
+.CivilEngineering-eating,
+.ComputerScience-eating,
+.ConstructionEngineeringManagement-eating,
+.EnvironmentalEngineering-eating,
+.IndustrialEngineering-eating,
+.MechanicalEngineering-eating,
+.NuclearEngineering-eating,
+.RadiationHealthPhysics-eating {
+  animation: full_cycle 2s steps(34) 1;
+}
+
+/* Petting */
+
+.petting,
+.dirt-heavy-petting,
+.ChemicalEngineering-petting,
+.CivilEngineering-petting,
+.ComputerScience-petting,
+.ConstructionEngineeringManagement-petting,
+.EnvironmentalEngineering-petting,
+.IndustrialEngineering-petting,
+.MechanicalEngineering-petting,
+.NuclearEngineering-petting {
+  animation: full_cycle 1s steps(13) 2;
+}
+
+.RadiationHealthPhysics-petting {
+  animation: second_half_cycle 1s steps(13) infinite;
+}
+
+/* Washing */
+
+.washing {
+  animation: full_cycle 2s steps(27) 3;
+}
+
+
+
+/* Pet menu */
+.pet-menu {
+  position: absolute;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-option {
+  position: fixed;
+  width: 4vw;
+  height: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-origin: center;
+  font-size: 1vw;
+  font-weight: bold;
+  background-color: #37d0ff;
+  border-radius: 100%;
+  cursor: pointer;
+}
+
+
+.menu-option:hover {
+  filter: brightness(75%);
+}

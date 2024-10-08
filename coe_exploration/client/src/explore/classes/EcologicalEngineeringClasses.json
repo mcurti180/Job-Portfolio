@@ -1,0 +1,195 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "CH 231 & CH 261": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 231",
+            "credits": "5"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "CH 232 & CH 262": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 232",
+            "credits": "5"
+        },
+        "COMM 114 or COMM 111Z or COMM 218Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING or INTERPERSONAL COMMUNICATION",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "CH 233 & CH 263": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 233",
+            "credits": "5"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "BEE 270": {
+            "title": "ECOLOGY FOR ENGINEERS",
+            "credits": "3"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS",
+            "credits": "1"
+        },
+        "BEE 221": {
+            "title": "FUNDAMENTALS OF ECOLOGICAL ENGINEERING",
+            "credits": "3"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "BEE 222": {
+            "title": "ECOLOGICAL ENGINEERING COMPUTATION",
+            "credits": "2"
+        },
+        "MTH 264": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        "MTH 265": {
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "BEE 311": {
+            "title": "ECOLOGICAL FLUID MECHANICS",
+            "credits": "4"
+        },
+        "BEE 320": {
+            "title": "BIOSYSTEMS ANALYSIS AND MODELING",
+            "credits": "4"
+        },
+        "BEE 312": {
+            "title": "ECOHYDRAULICS",
+            "credits": "4"
+        },
+        "BEE 322": {
+            "title": "ECOLOGICAL ENGINEERING THERMODYNAMICS AND TRANSFER PROCESS",
+            "credits": "4"
+        },
+        "FE 257": {
+            "title": "GIS AND FOREST ENGINEERING APPLICATIONS",
+            "credits": "3"
+        },
+        "SOIL 205": {
+            "title": "SOIL SCIENCE",
+            "credits": "3"
+        },
+        "SOIL 206": {
+            "title": "SOIL SCIENCE LABORATORY FOR SOIL 205",
+            "credits": "1"
+        },
+        "BEE 313": {
+            "title": "ECOHYDROLOGY",
+            "credits": "4"
+        },
+        "BEE 361": {
+            "title": "ECOLOGICAL ENGINEERING LABORATORY",
+            "credits": "3"
+        },
+        "BEE 362": {
+            "title": "ECOLOGICAL ENGINEERING MICROBIAL PROCESSES",
+            "credits": "3"
+        },
+        "BEE 415": {
+            "title": "PROFESSIONAL DEVELOPMENT",
+            "credits": "1"
+        },
+        "BEE 481": {
+            "title": "ECOLOGICAL ENGINEERING DESIGN I",
+            "credits": "4"
+        },
+        "FE 208": {
+            "title": "FOREST SURVEYING",
+            "credits": "4"
+        },
+        "BEE 482": {
+            "title": "ECOLOGICAL ENGINEERING DESIGN II",
+            "credits": "3"
+        },
+        "BEE 468": {
+            "title": "BIOREMEDIATION ENGINEERING",
+            "credits": "4"
+        },
+        "BEE 483": {
+            "title": "ECOLOGICAL ENGINEERING DESIGN III",
+            "credits": "2"
+        }
+    },
+    "other_requirements": {
+        "Biological Science": {
+            "credits": "4"
+        },
+        "Ethics Cluster": {
+            "credits": "3"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Science & Public Policy UD Elective": {
+            "credits": "3"
+        },
+        "Engineering UD Elective": {
+            "credits": "3"
+        },
+        "Perspectives or Synthesis": {
+            "credits": "3"
+        },
+        "Additional UD Elective": {
+            "credits": "3"
+        }
+    }
+}

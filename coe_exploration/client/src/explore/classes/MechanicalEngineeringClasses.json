@@ -1,0 +1,180 @@
+{
+    "classes": {
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS 1",
+            "credits": "3"
+        },
+        "COMM 111Z or COMM 114": {
+            "title": "PUBLIC SPEAKING or ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3-4"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I 1",
+            "credits": "3"
+        },
+        "ECON 201 or ECON 202": {
+            "title": "INTRODUCTION TO MICROECONOMICS or INTRODUCTION TO MACROECONOMICS",
+            "credits": "4"
+        },
+        "ENGR 202": {
+            "title": "ELECTRICAL FUNDAMENTALS II",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS 1",
+            "credits": "3"
+        },
+        "ENGR 248": {
+            "title": "ENGINEERING GRAPHICS AND 3D MODELING",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 341": {
+            "title": "LINEAR ALGEBRA I",
+            "credits": "3"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS 1",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        "MATS 321": {
+            "title": "INTRODUCTION TO MATERIALS SCIENCE",
+            "credits": "4"
+        },
+        "ME 203": {
+            "title": "COMPUTATIONAL METHODS FOR ENGINEERING",
+            "credits": "3"
+        },
+        "ME 217": {
+            "title": "MECHANICAL ENGINEERING DYNAMICS",
+            "credits": "4"
+        },
+        "ME 310": {
+            "title": "INTRODUCTION TO THERMODYNAMICS",
+            "credits": "4"
+        },
+        "ME 316": {
+            "title": "MECHANICS OF MATERIALS",
+            "credits": "3"
+        },
+        "ME 330": {
+            "title": "INTRODUCTION TO FLUID MECHANICS AND HEAT TRANSFER",
+            "credits": "4"
+        },
+        "ME 373": {
+            "title": "MECHANICAL ENGINEERING METHODS",
+            "credits": "4"
+        },
+        "ME 382": {
+            "title": "INTRODUCTION TO DESIGN",
+            "credits": "4"
+        },
+        "ME 320ECE 451": {
+            "title": "SYSTEMS DYNAMICS AND CONTROL",
+            "credits": "4"
+        },
+        "ME 351": {
+            "title": "INTRODUCTION TO INSTRUMENTATION AND MEASUREMENT SYSTEMS",
+            "credits": "4"
+        },
+        "ME 383": {
+            "title": "MECHANICAL COMPONENT DESIGN",
+            "credits": "4"
+        },
+        "MIME 497 or ENGR 415": {
+            "title": "MIME CAPSTONE DESIGN or ENGINEERING CAPSTONE DESIGN I",
+            "credits": "4"
+        },
+        "MIME 498 or ENGR 416": {
+            "title": "MIME CAPSTONE DESIGN or ENGINEERING CAPSTONE DESIGN II",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Course": {
+            "credits": "3"
+        },
+        "Perspective Courses": {
+            "credits": "6"
+        },
+        "Option Courses": {
+            "credits": "12"
+        },
+        "Difference, Power, & Discrimination": {
+            "credits": "3"
+        },
+        "Synthesis Courses": {
+            "credits": "6"
+        },
+        "Biological Science Course w/Lab": {
+            "credits": "4"
+        }
+    }
+}

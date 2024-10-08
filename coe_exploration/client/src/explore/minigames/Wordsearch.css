@@ -1,0 +1,60 @@
+
+.word-search-container {
+    display: flex;
+    justify-content: space-between; /* Distribute items evenly along the main axis */
+}
+
+.word-list {
+    flex: 0 0 45%; /* Set the width of the word list container */
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.word-search-grid {
+    flex: 0 0 45%; /* Set the width of the word search grid container */
+    /* Other styles as needed */
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.word-list li.highlighted {
+    background-color: rgb(214, 136, 9); /* Highlight color for completely found words */
+}
+
+.word-search-grid {
+    width: 45%;
+    display: grid;
+    grid-template-columns: repeat(20, 1fr); /* 25 columns */
+    user-select: none; /* Disable text selection */
+    -moz-user-select: none; /* Disable text selection for Firefox */
+    -webkit-user-select: none; /* Disable text selection for Chrome, Safari, and Opera */
+    -ms-user-select: none; /* Disable text selection for Internet Explorer/Edge */
+}
+
+.word-search-cell {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.word-search-cell.selected {
+    background-color: rgb(214, 136, 9); /* Change to whatever highlight color you prefer */
+}
+
+.word-search-cell.stay-highlighted {
+    background-color: rgb(224, 171, 105);
+}
+
+.word-search-cell.found {
+    background-color: #4caf50; /* Green background color for found word */
+    color: white; /* White text color for better visibility */
+}
+
+.found {
+    text-decoration: line-through;
+}
+
+.button {
+    padding-left: 5px;
+    margin-left: 1rem;
+}

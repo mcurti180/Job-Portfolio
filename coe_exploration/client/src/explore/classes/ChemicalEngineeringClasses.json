@@ -1,0 +1,209 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "CH 231 & CH 261": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 231",
+            "credits": "5"
+        },
+        "CH 232 & CH 262": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 232",
+            "credits": "5"
+        },
+        "CH 233 & CH 263": {
+            "title": "GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 233",
+            "credits": "5"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3-4"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "CH 331": {
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        "CH 332": {
+            "title": "ORGANIC CHEMISTRY",
+            "credits": "4"
+        },
+        "CBEE 211": {
+            "title": "MATERIAL BALANCES AND STOICHIOMETRY",
+            "credits": "3"
+        },
+        "CBEE 212": {
+            "title": "ENERGY BALANCES",
+            "credits": "3"
+        },
+        "CBEE 213": {
+            "title": "PROCESS DATA ANALYSIS",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 264 & MTH 265": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA and INTRODUCTION TO SERIES",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "CH 440": {
+            "title": "PHYSICAL CHEMISTRY",
+            "credits": "3"
+        },
+        "CH 441": {
+            "title": "PHYSICAL CHEMISTRY",
+            "credits": "3"
+        },
+        "CH 442": {
+            "title": "PHYSICAL CHEMISTRY",
+            "credits": "3"
+        },
+        "CHE 311": {
+            "title": "THERMODYNAMICS",
+            "credits": "3"
+        },
+        "CHE 312": {
+            "title": "CHEMICAL ENGINEERING THERMODYNAMICS",
+            "credits": "3"
+        },
+        "CHE 320": {
+            "title": "SAFETY, ENGINEERING ETHICS AND PROFESSIONALISM",
+            "credits": "3"
+        },
+        "CHE 331": {
+            "title": "TRANSPORT PHENOMENA I",
+            "credits": "4"
+        },
+        "CHE 332": {
+            "title": "TRANSPORT PHENOMENA II",
+            "credits": "3"
+        },
+        "CHE 333": {
+            "title": "TRANSPORT PHENOMENA III",
+            "credits": "3"
+        },
+        "CHE 334": {
+            "title": "TRANSPORT PHENOMENA LABORATORY",
+            "credits": "3"
+        },
+        "CHE 361": {
+            "title": "CHEMICAL PROCESS DYNAMICS AND SIMULATION",
+            "credits": "3"
+        },
+        "CHE 461": {
+            "title": "PROCESS CONTROL",
+            "credits": "3"
+        },
+        "CHE 411": {
+            "title": "MASS TRANSFER OPERATIONS",
+            "credits": "4"
+        },
+        "CBEE 414": {
+            "title": "PROCESS ENGINEERING LABORATORY",
+            "credits": "3"
+        },
+        "CHE 415": {
+            "title": "CHEMICAL ENGINEERING LABORATORY I",
+            "credits": "3"
+        },
+        "CHE 431": {
+            "title": "CHEMICAL PLANT DESIGN I",
+            "credits": "3"
+        },
+        "CHE 432": {
+            "title": "CHEMICAL PLANT DESIGN II",
+            "credits": "3"
+        },
+        "CHE 443": {
+            "title": "CHEMICAL REACTION ENGINEERING",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Course": {
+            "credits": "3"
+        },
+        "Perspectives Courses": {
+            "credits": "6"
+        },
+        "Biological Science w/Lab": {
+            "credits": "4"
+        },
+        "Free Elective": {
+            "credits": "2-3"
+        },
+        "Advanced Chemistry Course With Lab": {
+            "credits": "4"
+        },
+        "Advanced Chemistry Course": {
+            "credits": "3"
+        },
+        "Engineering Electives": {
+            "credits": "7"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Synthesis Course": {
+            "credits": "6"
+        }
+    }
+}

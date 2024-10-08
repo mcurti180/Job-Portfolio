@@ -1,0 +1,184 @@
+{
+    "classes": {
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS 1",
+            "credits": "3"
+        },
+        "COMM 111Z or COMM 114": {
+            "title": "PUBLIC SPEAKING or ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3-4"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "ENGR 212": {
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        "ENGR 248": {
+            "title": "ENGINEERING GRAPHICS AND 3D MODELING",
+            "credits": "3"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY 1",
+            "credits": "3"
+        },
+        "IE 112": {
+            "title": "SPREADSHEET SKILLS FOR INDUSTRIAL & MANUFACTURING ENGINEERS",
+            "credits": "1"
+        },
+        "IE 212": {
+            "title": "COMPUTATIONAL METHODS FOR INDUSTRIAL ENGINEERING 1",
+            "credits": "4"
+        },
+        "ME 250": {
+            "title": "INTRODUCTION TO MANUFACTURING PROCESSES",
+            "credits": "1"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "MTH 341": {
+            "title": "LINEAR ALGEBRA I",
+            "credits": "3"
+        },
+        "PH 212 & PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS and GENERAL PHYSICS WITH CALCULUS",
+            "credits": "8"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS 1",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "MATS 321": {
+            "title": "INTRODUCTION TO MATERIALS SCIENCE",
+            "credits": "4"
+        },
+        "MFGE 336": {
+            "title": "PRODUCTION ENGINEERING",
+            "credits": "4"
+        },
+        "IE 355": {
+            "title": "QUANTITATIVE METHODS FOR SYSTEM ANALYSIS AND IMPROVEMENT",
+            "credits": "4"
+        },
+        "IE 356": {
+            "title": "QUANTITATIVE METHODS FOR SYSTEM MODELING AND EXPERIMENTATION",
+            "credits": "4"
+        },
+        "IE 366": {
+            "title": "WORK SYSTEMS ENGINEERING",
+            "credits": "4"
+        },
+        "IE 367": {
+            "title": "PRODUCTION PLANNING AND CONTROL",
+            "credits": "4"
+        },
+        "IE 368": {
+            "title": "FACILITY DESIGN AND OPERATIONS MANAGEMENT",
+            "credits": "4"
+        },
+        "IE 412": {
+            "title": "INFORMATION SYSTEMS ENGINEERING",
+            "credits": "4"
+        },
+        "IE 415": {
+            "title": "SIMULATION AND DECISION SUPPORT SYSTEMS",
+            "credits": "4"
+        },
+        "IE 425": {
+            "title": "INDUSTRIAL SYSTEMS OPTIMIZATION",
+            "credits": "4"
+        },
+        "IE 426": {
+            "title": "STOCHASTIC MODELS OF INDUSTRIAL SYSTEMS",
+            "credits": "4"
+        },
+        "MIME 497": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "MIME 498": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives Courses": {
+            "credits": "6"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Restricted IME Elective": {
+            "credits": "8"
+        },
+        "Biological Science Elective": {
+            "credits": "4"
+        },
+        "Restricted IME Electives": {
+            "credits": "10"
+        },
+        "Synthesis Courses": {
+            "credits": "6"
+        }
+    }
+}

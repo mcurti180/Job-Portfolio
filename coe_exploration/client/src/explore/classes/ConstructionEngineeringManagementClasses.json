@@ -1,0 +1,208 @@
+{
+    "classes": {
+        "CH 201 or CH 231 and CH 261": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS 1 or GENERAL CHEMISTRY and LABORATORY FOR CHEMISTRY 231",
+            "credits": "3"
+        },
+        "ECON 201": {
+            "title": "INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        "COMM 114 or COMM 111Z": {
+            "title": "ARGUMENT AND CRITICAL DISCOURSE or PUBLIC SPEAKING",
+            "credits": "3"
+        },
+        "ECON 202": {
+            "title": "INTRODUCTION TO MACROECONOMICS",
+            "credits": "4"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "BA 315": {
+            "title": "ACCOUNTING FOR DECISION MAKING",
+            "credits": "4"
+        },
+        "BA 330": {
+            "title": "LEGAL ENVIRONMENT OF BUSINESS",
+            "credits": "4"
+        },
+        "CCE 201": {
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        "CCE 203": {
+            "title": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION",
+            "credits": "3"
+        },
+        "CCE 207": {
+            "title": "CCE SEMINAR",
+            "credits": "1"
+        },
+        "CEM 263": {
+            "title": "PLANE SURVEYING 1",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "BA 351": {
+            "title": "MANAGING ORGANIZATIONS",
+            "credits": "4"
+        },
+        "CCE 321": {
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        "CE 365": {
+            "title": "HIGHWAY LOCATION AND DESIGN",
+            "credits": "3"
+        },
+        "CE 424": {
+            "title": "CONTRACTS AND SPECIFICATIONS",
+            "credits": "4"
+        },
+        "CEM 341": {
+            "title": "CONSTRUCTION ESTIMATING I",
+            "credits": "4"
+        },
+        "CEM 381": {
+            "title": "STRUCTURES I",
+            "credits": "4"
+        },
+        "CEM 441": {
+            "title": "HEAVY CIVIL CONSTRUCTION MANAGEMENT",
+            "credits": "4"
+        },
+        "CEM 442": {
+            "title": "BUILDING CONSTRUCTION MANAGEMENT",
+            "credits": "4"
+        },
+        "CEM 471": {
+            "title": "ELECTRICAL FACILITIES",
+            "credits": "4"
+        },
+        "CEM 472": {
+            "title": "MECHANICAL FACILITIES",
+            "credits": "3"
+        },
+        "FE 315 or CE 372 or CEM 372": {
+            "title": "SOIL ENGINEERING or GEOTECHNICAL ENGINEERING I or GEOTECHNICS FOR CONSTRUCTION",
+            "credits": "4"
+        },
+        "CE 427": {
+            "title": "TEMPORARY CONSTRUCTION STRUCTURES",
+            "credits": "4"
+        },
+        "CEM 326": {
+            "title": "CONSTRUCTION SAFETY",
+            "credits": "3"
+        },
+        "CEM 342": {
+            "title": "CONSTRUCTION ESTIMATING II",
+            "credits": "4"
+        },
+        "CEM 343": {
+            "title": "CONSTRUCTION PLANNING AND SCHEDULING",
+            "credits": "4"
+        },
+        "CEM 383": {
+            "title": "STRUCTURES II",
+            "credits": "4"
+        },
+        "CEM 431 or CEM 432": {
+            "title": "OBTAINING CONSTRUCTION CONTRACTS or CONSTRUCTION PROJECT PLANNING",
+            "credits": "3-4"
+        },
+        "CEM 443": {
+            "title": "PROJECT MANAGEMENT FOR CONSTRUCTION",
+            "credits": "4"
+        },
+        "MGMT 453": {
+            "title": "HUMAN RESOURCES MANAGEMENT",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives: Literature & The Arts": {
+            "credits": "3"
+        },
+        "Any PAC Course": {
+            "credits": "1"
+        },
+        "Bacc Core: Western Culture Course": {
+            "credits": "3"
+        },
+        "Biological Science Course w/Lab": {
+            "credits": "4"
+        },
+        "Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Restricted UpperDivision Business Elective": {
+            "credits": "4"
+        },
+        "UpperDivision Engineering Elective": {
+            "credits": "3"
+        },
+        "Synthesis: Contemporary Global Issues": {
+            "credits": "3"
+        },
+        "Synthesis: Science, Technology & Society": {
+            "credits": "3"
+        },
+        "Perspectives: Cultural Diversity": {
+            "credits": "3"
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "ECON 201": {
+            "title": "INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "CH 205": {
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "COMM 111Z or COMM 114": {
+            "title": "PUBLIC SPEAKING or ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3-4"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 202": {
+            "title": "ELECTRICAL FUNDAMENTALS II",
+            "credits": "3"
+        },
+        "ENGR 212": {
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        "MTH 341": {
+            "title": "LINEAR ALGEBRA I",
+            "credits": "3"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "IE 212": {
+            "title": "COMPUTATIONAL METHODS FOR INDUSTRIAL ENGINEERING",
+            "credits": "4"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "HHS 231": {
+            "title": "LIFETIME FITNESS FOR HEALTH",
+            "credits": "2"
+        },
+        "HHS 241": {
+            "title": "LIFETIME FITNESS or any PAC course",
+            "credits": "1"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        "ESE 330": {
+            "title": "MODELING AND ANALYSIS OF DYNAMIC SYSTEMS",
+            "credits": "4"
+        },
+        "IE 425": {
+            "title": "INDUSTRIAL SYSTEMS OPTIMIZATION",
+            "credits": "4"
+        },
+        "ME 311": {
+            "title": "INTRODUCTION TO THERMALFLUID SCIENCES",
+            "credits": "4"
+        },
+        "ESE 360": {
+            "title": "ENERGY CONSUMPTION ANALYSIS",
+            "credits": "4"
+        },
+        "ME 312": {
+            "title": "THERMODYNAMICS",
+            "credits": "4"
+        },
+        "IE 415": {
+            "title": "SIMULATION AND DECISION SUPPORT SYSTEMS",
+            "credits": "4"
+        },
+        "BA 357": {
+            "title": "OPERATIONS AND SUPPLY CHAIN MANAGEMENT",
+            "credits": "4"
+        },
+        "ESE 470": {
+            "title": "ENERGY DISTRIBUTION SYSTEMS",
+            "credits": "4"
+        },
+        "ESE 355": {
+            "title": "ENERGY REGULATION",
+            "credits": "4"
+        },
+        "IE 471": {
+            "title": "PROJECT MANAGEMENT IN ENGINEERING",
+            "credits": "3"
+        },
+        "ESE 430": {
+            "title": "FEEDBACK CONTROL SYSTEMS",
+            "credits": "4"
+        },
+        "ESE 497": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "ME 331": {
+            "title": "FLUID MECHANICS",
+            "credits": "4"
+        },
+        "SUS 350": {
+            "title": "SUSTAINABLE COMMUNITIES",
+            "credits": "4"
+        },
+        "ESE 498": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "ME 332": {
+            "title": "HEAT TRANSFER",
+            "credits": "4"
+        },
+        "ESE 450": {
+            "title": "ENERGY GENERATION SYSTEMS",
+            "credits": "4"
+        },
+        "ESE 471": {
+            "title": "ENERGY STORAGE SYSTEMS",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives: Difference, Power & Discrimination": {
+            "credits": "3"
+        },
+        "Perspectives: Biological Science": {
+            "credits": "4"
+        },
+        "Perspectives: Cultural Diversity": {
+            "credits": "3"
+        },
+        "Perspectives: Western Culture": {
+            "credits": "3"
+        },
+        "Restricted ESE Elective": {
+            "credits": "4"
+        },
+        "Perspectives: Literature & The Arts": {
+            "credits": "3"
+        },
+        "Perspectives: Science, Technology & Society": {
+            "credits": "4"
+        }
+    }
+}

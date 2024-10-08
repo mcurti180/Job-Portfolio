@@ -1,0 +1,86 @@
+import React from 'react';
+import Wordle from './Wordle.jsx';
+
+const ConstructionEngineeringManagementGame = () => {
+    // List of themed words for the wordle game
+    const words = [
+        'code',
+        'beam',
+        'load',
+        'site',
+        'plan',
+        'grid',
+        'crew',
+        'bolt',
+        'pipe',
+        'pump',
+        'duct',
+        'soil',
+        'spec',
+        'test',
+        'wall',
+        'wire',
+        'zone',
+        'risk',
+        'cost',
+        'fund',
+        'bond',
+        'team',
+        'task',
+        'tool',
+        'work',
+        'lift',
+        'crane',
+        'grade',
+        'lease',
+        'track',
+        'chart',
+        'draft',
+        'frame',
+        'gauge',
+        'level',
+        'meter',
+        'model',
+        'quote',
+        'scope',
+        'steel',
+        'stone',
+        'timber',
+        'value',
+        'weld',
+        'yield',
+        'brick',
+        'bricks',
+        'budget',
+        'design',
+        'safety',
+        'survey',
+        'tender',
+        'change',
+        'client',
+        'detail',
+        'direct',
+        'finish',
+        'labor',
+        'legal',
+        'manage',
+        'permit',
+        'record',
+        'report',
+        'sector',
+        'supply',
+        'system',
+        'vendor',
+        'wiring',
+        'access',
+        'cement',
+      ];
+
+    return (
+        <div>
+            <Wordle word_list={words} rewardID={6} rewardName={"Traffic Cone Hat"} />
+        </div>
+    );
+};
+
+export default ConstructionEngineeringManagementGame;

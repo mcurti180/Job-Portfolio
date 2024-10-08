@@ -1,0 +1,202 @@
+{
+    "classes": {
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "CH 205": {
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        "COMM 111Z or COMM 114": {
+            "title": "PUBLIC SPEAKING or ARGUMENT AND CRITICAL DISCOURSE",
+            "credits": "3-4"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "AEC 250 or ECON 201 or GEOG 240 or GEOG 250": {
+            "title": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS AND POLICY or INTRODUCTION TO MICROECONOMICS or HUMAN DIMENSIONS OF CLIMATE CHANGE or LAND USE PLANNING FOR SUSTAINABLE COMMUNITIES",
+            "credits": "3-4"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "CCE 207": {
+            "title": "CCE SEMINAR",
+            "credits": "1"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 264": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        "MTH 265": {
+            "title": "INTRODUCTION TO SERIES",
+            "credits": "2"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "CCE 201": {
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING GRAPHICS AND DESIGN",
+            "credits": "3"
+        },
+        "ENGR 213": {
+            "title": "STRENGTH OF MATERIALS",
+            "credits": "3"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ART 321 or ART 322 or ART 323": {
+            "title": "ANCIENT ROMAN ART AND ARCHITECTURE or MEDIEVAL ART AND ARCHITECTURE or ITALIAN RENAISSANCE ART AND ARCHITECTURE",
+            "credits": "3"
+        },
+        "CCE 203": {
+            "title": "INTRODUCTION TO VIRTUAL DESIGN AND CONSTRUCTION",
+            "credits": "3"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "ARE 310": {
+            "title": "ARCHITECTURE STUDIO",
+            "credits": "4"
+        },
+        "CE 311": {
+            "title": "FLUID MECHANICS",
+            "credits": "4"
+        },
+        "CEM 442": {
+            "title": "BUILDING CONSTRUCTION MANAGEMENT",
+            "credits": "4"
+        },
+        "CEM 471": {
+            "title": "ELECTRICAL FACILITIES",
+            "credits": "4"
+        },
+        "ARE 341": {
+            "title": "FUNDAMENTALS OF HEATING, VENTILATING, AND AIR CONDITIONING HVAC",
+            "credits": "4"
+        },
+        "ARE 361": {
+            "title": "FUNDAMENTALS FOR LIGHTING DESIGN",
+            "credits": "4"
+        },
+        "CE 381": {
+            "title": "STRUCTURAL THEORY I",
+            "credits": "4"
+        },
+        "CEM 472": {
+            "title": "MECHANICAL FACILITIES",
+            "credits": "3"
+        },
+        "CCE 321": {
+            "title": "CIVIL AND CONSTRUCTION ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        "CE 382": {
+            "title": "STRUCTURAL THEORY II",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ARE 451": {
+            "title": "ADVANCED BUILDING CONSTRUCTION METHODS",
+            "credits": "4"
+        },
+        "CE 383": {
+            "title": "DESIGN OF STEEL STRUCTURES",
+            "credits": "4"
+        },
+        "CE 420": {
+            "title": "ENGINEERING PLANNING",
+            "credits": "4"
+        },
+        "ARE 418": {
+            "title": "ARCHITECTURAL ENGINEERING PROFESSIONAL PRACTICE",
+            "credits": "4"
+        },
+        "CCE 422": {
+            "title": "GREEN BUILDING MATERIALS",
+            "credits": "3"
+        },
+        "ARE 419": {
+            "title": "ARCHITECTURAL ENGINEERING DESIGN",
+            "credits": "3"
+        }
+    },
+    "other_requirements": {
+        "Bacc Core: Fitness": {
+            "credits": "1"
+        },
+        "Perspectives: Western Culture": {
+            "credits": "3"
+        },
+        "Perspectives: Cultural Diversity": {
+            "credits": "3"
+        },
+        "Bacc Core: Difference Power and Discrimination": {
+            "credits": "3"
+        },
+        "Technical Elective": {
+            "credits": "4"
+        },
+        "Bacc Core: Biological Science": {
+            "credits": "4"
+        },
+        "Synthesis: Contemporary Global Issues": {
+            "credits": "3"
+        },
+        "Synthesis: Science, Technology & Society": {
+            "credits": "3"
+        }
+    }
+}

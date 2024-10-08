@@ -1,0 +1,51 @@
+.BioengineeringReward {
+    position: absolute;
+    bottom: 10%;
+    right: 1%;
+}
+
+.statsButton {
+    position: relative;
+    float: right;
+    z-index: 1000;
+    background-color: royalblue;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0 0 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.statsButton:hover {
+    background-color: blue;
+}
+
+.statBoard {
+    position: relative;
+    font-size: calc(10px + 0.5vw);
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.statBoard h3 {
+    color: #333;
+}
+
+.statBoard p {
+    color: #666;
+    margin: 5px 0;
+}
+
+@media (max-width: 600px) {
+    .statBoard {
+        display: none;
+    }
+}

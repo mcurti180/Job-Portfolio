@@ -1,0 +1,171 @@
+{
+    "classes": {
+        "CH 201": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "ENGR 100": {
+            "title": "THE OREGON STATE ENGINEERING STUDENT",
+            "credits": "3"
+        },
+        "MTH 251": {
+            "title": "DIFFERENTIAL CALCULUS",
+            "credits": "4"
+        },
+        "WR 121Z": {
+            "title": "COMPOSITION I",
+            "credits": "4"
+        },
+        "CH 202": {
+            "title": "CHEMISTRY FOR ENGINEERING MAJORS",
+            "credits": "3"
+        },
+        "ECON 201": {
+            "title": "INTRODUCTION TO MICROECONOMICS",
+            "credits": "4"
+        },
+        "ENGR 102": {
+            "title": "DESIGN ENGINEERING AND PROBLEM SOLVING",
+            "credits": "3"
+        },
+        "MTH 252": {
+            "title": "INTEGRAL CALCULUS",
+            "credits": "4"
+        },
+        "CH 205": {
+            "title": "LABORATORY FOR CH 202",
+            "credits": "1"
+        },
+        "ENGR 103": {
+            "title": "ENGINEERING COMPUTATION AND ALGORITHMIC THINKING",
+            "credits": "3"
+        },
+        "CS 162": {
+            "title": "INTRODUCTION TO COMPUTER SCIENCE II",
+            "credits": "4"
+        },
+        "COMM 111Z": {
+            "title": "PUBLIC SPEAKING",
+            "credits": "4"
+        },
+        "MTH 254": {
+            "title": "VECTOR CALCULUS I",
+            "credits": "4"
+        },
+        "MTH 256": {
+            "title": "APPLIED DIFFERENTIAL EQUATIONS",
+            "credits": "4"
+        },
+        "PH 211": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 201": {
+            "title": "ELECTRICAL FUNDAMENTALS I",
+            "credits": "3"
+        },
+        "ENGR 211": {
+            "title": "STATICS",
+            "credits": "3"
+        },
+        "MTH 264": {
+            "title": "INTRODUCTION TO MATRIX ALGEBRA",
+            "credits": "2"
+        },
+        "PH 212": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 212": {
+            "title": "DYNAMICS",
+            "credits": "3"
+        },
+        "ENGR 202": {
+            "title": "ELECTRICAL FUNDAMENTALS II",
+            "credits": "3"
+        },
+        "WR 227Z": {
+            "title": "TECHNICAL WRITING",
+            "credits": "4"
+        },
+        "ST 314": {
+            "title": "INTRODUCTION TO STATISTICS FOR ENGINEERS",
+            "credits": "3"
+        },
+        "PH 213": {
+            "title": "GENERAL PHYSICS WITH CALCULUS",
+            "credits": "4"
+        },
+        "ENGR 203": {
+            "title": "ELECTRICAL FUNDAMENTALS III",
+            "credits": "3"
+        },
+        "ENGR 390": {
+            "title": "ENGINEERING ECONOMY",
+            "credits": "3"
+        },
+        "ESE 330": {
+            "title": "MODELING AND ANALYSIS OF DYNAMIC SYSTEMS",
+            "credits": "4"
+        },
+        "ME 311": {
+            "title": "INTRODUCTION TO THERMALFLUID SCIENCES",
+            "credits": "4"
+        },
+        "ECE 271": {
+            "title": "DIGITAL LOGIC DESIGN",
+            "credits": "3"
+        },
+        "ECE 272": {
+            "title": "DIGITAL LOGIC DESIGN LABORATORY",
+            "credits": "1"
+        },
+        "ESC 340": {
+            "title": "INTRODUCTION TO EXPERIMENTATION",
+            "credits": "4"
+        },
+        "ESC 350": {
+            "title": "ENGINEERING MATERIALS",
+            "credits": "4"
+        },
+        "IE 471": {
+            "title": "PROJECT MANAGEMENT IN ENGINEERING",
+            "credits": "3"
+        },
+        "ESC 497": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "ESC 498": {
+            "title": "MIME CAPSTONE DESIGN",
+            "credits": "4"
+        },
+        "ESC 440": {
+            "title": "COMPUTATIONAL METHODS FOR ENGINEERS",
+            "credits": "4"
+        }
+    },
+    "other_requirements": {
+        "Perspectives ": {
+            "credits": "3"
+        },
+        "Restricted Elective": {
+            "credits": "4"
+        },
+        "Biological Science w/Lab ": {
+            "credits": "4"
+        },
+        "Free Elective": {
+            "credits": "4"
+        },
+        "Restricted Electives": {
+            "credits": "8"
+        },
+        "Fitness ": {
+            "credits": "3"
+        },
+        "Synthesis ": {
+            "credits": "6"
+        }
+    }
+}
