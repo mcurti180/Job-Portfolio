@@ -1,0 +1,163 @@
+{{!--Citation for the following page:
+Date: 3-20-2022
+This page is adapted from the Node JS starter code app.js file
+Source URL: https://github.com/osu-cs340-ecampus/nodejs-starter-app--}}
+
+<html>
+
+<head>
+    <title>Orders page</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css" />
+</head>
+
+<body>
+    <!-- index.hbs -->
+    <h1>Orders</h1>
+    
+    {{!-- nav bar --}}
+    <nav class="navbar navbar-expand navbar-light bg-light text-center">
+        <div class="collapse navbar-collapse p-1" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a href="/" class="nav-link">Gogurts</a>
+                </li>
+                <li class="nav-item active">
+                    <li><a href="suppliers" class="nav-link">Suppliers</a></li>
+                </li>
+                <li class="nav-item active">
+                    <li><a href="./orders" class="nav-link active">Orders</a></li>
+                </li>
+                <li class="nav-item active">
+                    <li><a href="sales" class="nav-link">Sales</a></li>
+                </li>
+                <li class="nav-item active">
+                    <li><a href="customers" class="nav-link">Customers</a></li>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+    {{!-- Create a table --}}
+    <h2>Orders</h2>
+    <table id="orders-table">
+
+        {{!-- Header section --}}
+        <thead>
+
+            {{!-- For just the first row, we print each key of the row object as a header cell so we
+            know what each column means when the page renders --}}
+            <tr>
+                {{#each data.[0]}}
+                <th>
+                    {{@key}}
+                </th>
+                {{/each}}
+                <th>delete</th>
+            </tr>
+        </thead>
+
+        {{!-- Body section --}}
+        <tbody>
+
+            {{#each data}}
+            <tr>
+                <td>{{this.idOrder}}</td>
+                <td>{{this.idSupplier}}</td>
+                <td>{{this.orderDate}}</td>
+                
+                <td><button onclick="deleteOrder({{this.idOrder}})">Delete</button></td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+    <script src="./js/delete_order.js"></script>
+
+    <p>&nbsp;</p>
+
+    <h2>Orders Details</h2>
+    <table id="ordersDetails-table">
+
+        {{!-- Header section --}}
+        <thead>
+
+            {{!-- For just the first row, we print each key of the row object as a header cell so we
+            know what each column means when the page renders --}}
+            <tr>
+                {{#each data2.[0]}}
+                <th>
+                    {{@key}}
+                </th>
+                {{/each}}
+            </tr>
+        </thead>
+
+        {{!-- Body section --}}
+        <tbody>
+
+            {{#each data2}}
+            <tr>
+                <td>{{this.idOrderDetail}}</td>
+                <td>{{this.oid}}</td>
+                <td>{{this.gid}}</td>
+                <td>{{this.orderDate}}</td>
+                <td>{{this.orderQty}}</td>
+                <td>{{this.unitPrice}}</td>
+                <td>{{this.lineTotal}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+
+    <p>&nbsp;</p>
+    {{!-- Form to add a record to the table  --}}
+    <h2>Adding Data with AJAX</h2>
+    <p>To add a new sale, please fill out the information below and click 'Submit'!</p>
+    <form id="add-order-form-ajax">
+        <label for="input-idSupplier-ajax">Enter associated supplier (supplier ID): </label>
+        <select name="input-idSupplier-ajax" id="input-idSupplier-ajax">
+            <option value="">Select a Supplier</option>
+                {{#each suppliers}}
+            <option value="{{this.idSupplier}}">{{this.supplierName}}</option>
+                {{/each}}
+        </select>
+    
+        <label for="input-idGogurt">Gogurt ID: </label>
+        <select name="input-idGogurt" id="input-idGogurt-ajax">
+            <option value="">Select a Gogurt</option>
+            {{#each gogurts}}
+            <option value="{{this.idGogurt}}">{{this.flavor}}</option>
+            {{/each}}
+        </select>
+
+        <label for="input-orderDate">Order date: </label>
+        <input type="date" name="input-orderDate" id="input-orderDate-ajax">
+
+        <label for="input-orderQty">Order Quantity: </label>
+        <input type="number" name="input-orderQty" id="input-orderQty-ajax">
+
+        <label for="input-unitPrice">Unit price: </label>
+        <input type="number" step="0.01"name="input-unitPrice" id="input-unitPrice-ajax">
+
+        <label for="input-subTotal">SubTotal: </label>
+        <input type="number" step="0.01" name="input-subTotal" id="input-subTotal-ajax">
+
+        <input type="submit">
+    </form>
+
+    <script src="./js/add_order.js"></script>
+
+    <script src="./js/update_person.js"></script>
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

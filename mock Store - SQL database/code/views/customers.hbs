@@ -1,0 +1,93 @@
+{{!--Citation for the following page:
+Date: 3-20-2022
+This page is adapted from the Node JS starter code app.js file
+Source URL: https://github.com/osu-cs340-ecampus/nodejs-starter-app--}}
+
+<html>
+
+<head>
+    <title>Customers</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css" />
+</head>
+
+<h1>Customers</h1>
+<nav class="navbar navbar-expand navbar-light bg-light text-center">
+        <div class="collapse navbar-collapse p-1" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a href="/" class="nav-link">Gogurts</a>
+                </li>
+                <li class="nav-item active">
+                <li><a href="suppliers" class="nav-link">Suppliers</a></li>
+                </li>
+                <li class="nav-item active">
+                <li><a href="orders" class="nav-link">Orders</a></li>
+                </li>
+                <li class="nav-item active">
+                <li><a href="sales" class="nav-link">Sales</a></li>
+                </li>
+                <li class="nav-item active">
+                <li><a href="customers" class="nav-link active">Customers</a></li>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+<h2>Customers</h2>
+<table id="customers-table">
+
+    {{!-- Header section --}}
+    <thead>
+
+        {{!-- For just the first row, we print each key of the row object as a header cell so we
+        know what each column means when the page renders --}}
+        <tr>
+            {{#each data.[0]}}
+            <th>
+                {{@key}}
+            </th>
+            {{/each}}
+            <th>delete</th>
+        </tr>
+    </thead>
+
+    {{!-- Body section --}}
+    <tbody>
+
+        {{#each data}}
+        <tr>
+            <td>{{this.idCustomer}}</td>
+            <td>{{this.customerName}}</td>
+            <td>{{this.email}}</td>
+            <td>{{this.address}}</td>
+            <td><button onclick="deleteCustomer({{this.idCustomer}})">Delete</button></td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+<script src="./js/delete_customer.js"></script>
+<!-- /views/customers.handlebars -->
+
+<p>&nbsp;</p>
+
+{{!-- Form to add a record to the table  --}}
+<h2>Adding Data with AJAX</h2>
+<p>To add a new customer, please enter their information below and click 'Submit'!</p>
+<form id="add-customer-form-ajax">
+    <label for="input-customerName">Customer Name: </label>
+    <input type="text" name="input-customerName" id="input-customerName">
+    
+    <label for="input-email">Email: </label>
+    <input type="text" name="input-email" id="input-email">
+
+    <label for="input-address">Address: </label>
+    <input type="text" name="input-address" id="input-address">
+
+    <input type="submit">
+</form>
+
+{{!-- Embed our javascript to handle the DOM manipulation and AJAX request --}}
+<script src="./js/add_customers.js"></script>
