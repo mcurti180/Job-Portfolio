@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "firebase": "^11.8.1",
+    "mongoose": "^8.5.1"
+  },
+  "name": "communitypantry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:backend": "node server/server.js",
+    "start:frontend": "cd client && npx expo start",
+    "start:all": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
